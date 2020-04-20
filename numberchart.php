@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Assignment 4</title>
+<title>Number Chart - PHP</title>
     <link rel="stylesheet" href="style.css" />
 </head>
 <body>
